@@ -34,7 +34,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rspec-rails' #, '2.13.1'
 gem 'selenium-webdriver'
 gem 'capybara' #, '2.1.0'
-
+gem 'bootstrap-sass'
+gem 'sprockets-rails'
 group :development, :test do
   gem 'growl'
   gem 'guard-rspec'
