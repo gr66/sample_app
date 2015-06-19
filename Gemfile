@@ -36,6 +36,7 @@ gem 'selenium-webdriver'
 gem 'capybara' #, '2.1.0'
 gem 'bootstrap-sass'
 gem 'sprockets-rails'
+gem 'bcrypt'
 group :development, :test do
   gem 'growl'
   gem 'guard-rspec'
